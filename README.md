@@ -3,8 +3,11 @@
 ##### it has a slide show in the main page.The rest of the menu is not implemented.
 ##### The purpose of the project is to give a quick introduction about codeigniter. 
 # Used Technologies
+- Codeigniter 3.1.7
+- MySQL
+- HTML ,JS,CSS
 # Installation
-- Installation instuctions: 
+##### Installation instuctions: 
 - we need xampp with php version 7.0 
 - after cloning the repo search for SQL file in
 - \SQL_Import\horseclub.sql
