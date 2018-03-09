@@ -1,7 +1,7 @@
-# horseclub Codeigniter project
-##### Horse club is a project writen in codeigniter to support adding / updating /deleting blogs it has a pagination and login form
-##### it has a slide show in the main page.The rest of the menu is not implemented.
-##### The purpose of the project is to give a quick introduction about codeigniter. 
+# Horseclub Codeigniter project
+#### Horse club is a project writen in codeigniter to support adding / updating /deleting blogs it has a pagination and login form
+#### it has a slide show in the main page.The rest of the menu is not implemented.
+#### The purpose of the project is to give a quick introduction about codeigniter. 
 # Used Technologies
 - Codeigniter 3.1.7
 - MySQL
