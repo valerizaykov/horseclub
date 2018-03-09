@@ -12,7 +12,7 @@ The purpose of the project is to give a quick introduction about codeigniter.
 - After cloning the repo search for SQL file in \SQL_Import\horseclub.sql
 - After that in the project horseclub\application\config\config.php 
 - We need to set the starting point for your localhost if you have a specific port 
-- If not edit it like this $config['base_url'] = 'http://localhost/horseclub'
-- Change to single folder horseclub not horseclub\horseclub in order to see the css or configure the paths
+- If not edit it like this $config['base_url'] = http://localhost/horseclub
+- Change to single folder horseclub not nested horseclub\horseclub in order to see the css or configure the paths
 - Starting point of the website http://localhost/horseclub
 
