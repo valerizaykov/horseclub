@@ -1,5 +1,5 @@
 # horseclub
-Installation instuctions
+Installation instuctions-
 import the database file SQL_Import/horseclub.sql
 after that
 horseclub\application\config
