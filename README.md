@@ -13,9 +13,6 @@ config.php
 we need to set the starting point for your localhost if you have a specific port
 if not edit it like this
 $config['base_url'] = 'http://localhost/horseclub';
-user login:
-login valeri.zaykov@gmail.com
-pass:parola123
 starting point of the website
 http://localhost/horseclub
 
